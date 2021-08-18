@@ -9,4 +9,4 @@ Para correrlo:
 //en terminal escribir node index.js  y dira esuchando el puerto 8080
 //correr el html por ejemplo con live server, llenar los datos de formulario
 //si no funciona entonces volver a escribir en terminal escribir node index.js
-// crear archivo y llevara a la ruta por ejemplo http://localhost:8080/crear?archivo=triodinamico&contenido=ahorasiquesi   y en carpeta se vera el archivo creado
+// crear archivo y llevara a la ruta por ejemplo http:// localhost:8080/crear?archivo=creandoarchivo&contenido=blabla   y en carpeta se vera el archivo creado
